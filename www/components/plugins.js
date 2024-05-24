@@ -1,4 +1,4 @@
-// This is a JavaScript file
+´[[][][]// This is a JavaScript file
 
 $(document).on("click", "#alerta", function(){
     function retorno() {
